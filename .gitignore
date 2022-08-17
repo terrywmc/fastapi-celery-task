@@ -1,0 +1,6 @@
+# Pipfile for local development
+Pipfile
+Pipfile.lock
+
+# keep logs folder for celery logs
+*.log
